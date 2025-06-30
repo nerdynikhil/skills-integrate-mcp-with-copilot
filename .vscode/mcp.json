@@ -18,7 +18,7 @@
   "inputs": [
     {
       "type": "promptString",
-      "id": "ghu_r2ahP1pdIrqBgCl8V8kHGwS6DrZe221fhRhz",
+      "id": "github_token",
       "description": "GitHub Personal Access Token",
       "password": true
     }
